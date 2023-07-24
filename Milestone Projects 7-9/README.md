@@ -11,7 +11,7 @@ The user can then guess letters one at a time: if they guess a letter that it’
 
 That’s the game: can you make it? Don’t underestimate this one: it’s called a challenge for a reason – it’s supposed to stretch you!
 
-
+https://github.com/ValeryLoiko/100daysOfSwift/assets/77268554/30f10f95-4a9f-432f-b603-1cbe6d7d083b
 
 https://github.com/ValeryLoiko/100daysOfSwift/assets/77268554/8a9c2017-c4aa-40be-8dd8-6517e1c43392
 
