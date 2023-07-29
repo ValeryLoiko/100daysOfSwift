@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Challenge)
+### H3 Challenge
 One of the best ways to learn is to write your own code as often as possible, so here are three ways you should try your new knowledge to make sure you fully understand what’s going on:
 
 Add a second UIAlertController that gets shown when the user taps a picture, asking them whether they want to rename the person or delete them.
