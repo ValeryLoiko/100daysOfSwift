@@ -10,3 +10,7 @@
 #### You should create a custom Country struct that has properties for each of the facts you have in your JSON file. You can then have a [Country] array in your view controller.
 When using a table view in your detail view controller, try setting the numberOfLines property of the cell’s text label to be 0. That ought to allow the cell to fill up to two lines of text by default.
 Don’t forget all the little UI touches: adding a disclosure indicator to the countries table, adding titles to the navigation controller, and so on. You could even add an action button to the detail view that shares a fact about the selected country.
+
+
+https://github.com/ValeryLoiko/100daysOfSwift/assets/77268554/755b00a3-01c0-45cc-a1fc-a60e3f1258ee
+
